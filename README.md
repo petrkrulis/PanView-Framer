@@ -2,7 +2,7 @@
 
 A Framer.js module that makes desktop prototyping easy by allowing you to pan the view. This is super useful when viewing your prototype at 100% zoom and can't move around to reveal anything else then the center of your (large) desktop prototype
 
-![Demo](/mg/demo.gif)
+![Demo](/img/demo.gif)
 
 ## Add it in your Framer Studio project
 
